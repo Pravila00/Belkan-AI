@@ -1,8 +1,8 @@
 # Belkan-AI
-Used C++ for implementing searching algorithms 
+Used C++ for implementing searching algorithms (path finding)
 ( Informed, Blind and optimal such as A*) in a video-game which simulates a smart vacuum cleaner.
 
-It uses Open-GL for the graphic interview.
+It uses OpenGL for the graphic interview.
 
 These algorithms try to balance the energy of the machine with the points that get.
 
