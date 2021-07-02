@@ -2,6 +2,8 @@
 Used C++ for implementing searching algorithms 
 ( Informed, Blind and optimal such as A*) in a video-game which simulates a smart vacuum cleaner.
 
+It uses Open-GL for the graphic interview.
+
 These algorithms try to balance the energy of the machine with the points that get.
 
 ![](Belkan.gif)
