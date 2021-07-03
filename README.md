@@ -4,6 +4,7 @@ Used C++ for implementing searching algorithms( Informed, Blind and optimal such
 * It uses OpenGL for the graphic interview.
 * The player has a quantity of movements and energy, these algorithms balance both things for getting the highest number of points in the map.
 * In addition, there are some objects some training shoes or bathing suite in the map for expending less energy if water or countryside fields.
+* This project uses differents data structures for optimizing the execution time of the algorithms. For example it uses queues, sets, arrays, lists, etc.
 
 ![](Belkan.gif)
 
