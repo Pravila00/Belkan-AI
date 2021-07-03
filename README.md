@@ -1,4 +1,4 @@
-# Belkan-AI
+# Pathfinding
 Used C++ for implementing searching algorithms (path finding)
 ( Informed, Blind and optimal such as A*) in a video-game which simulates a smart vacuum cleaner.
 
