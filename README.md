@@ -1,10 +1,9 @@
 # Pathfinding
-Used C++ for implementing searching algorithms (path finding)
-( Informed, Blind and optimal such as A*) in a video-game which simulates a smart vacuum cleaner.
+Used C++ for implementing searching algorithms( Informed, Blind and optimal such as A*) in a video-game which simulates a smart vacuum cleaner.
 
-It uses OpenGL for the graphic interview.
-
-These algorithms try to balance the energy of the machine with the points that get.
+*It uses OpenGL for the graphic interview.
+*The player has a quantity of movements and energy, these algorithms balance both things for getting the highest number of points in the map.
+*In addition, there are some objects some training shoes or bathing suite in the map for expending less energy if water or countryside fields.
 
 ![](Belkan.gif)
 
